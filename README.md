@@ -108,4 +108,4 @@ $python -m unittest tests/test_1.py -v
 
 ## 6. Fecha de entrega
 
-Domingo 25
+Domingo 25, 23:59. Adjdunte su .zip en la carpeta "Entregas/caso de estudio 1".
