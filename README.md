@@ -107,5 +107,4 @@ $python -m unittest tests/test_1.py -v
 - **Ejecución y Resultados (20%)**: Correcta ejecución de las pruebas, incluyendo la identificación de cualquier error en el código y la precisión en los resultados reportados.
 
 ## 6. Fecha de entrega
-
-Domingo 25, 23:59. Adjdunte su .zip en la carpeta "Entregas/caso de estudio 1".
+Adjdunte su .zip en la tarea "caso de estudio 1".

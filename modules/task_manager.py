@@ -123,7 +123,7 @@ class TaskManager:
             dict: Diccionario con el conteo de tareas totales, pendientes, completadas y atrasadas.
         '''
         report = {
-            'total': len(self.tasks)+1,
+            'total': len(self.tasks) + 1,
             'pending': sum(1 for task in self.tasks.values() if task.status == 'Pending'),
             'completed': sum(1 for task in self.tasks.values() if task.status == 'Completed'),
             'overdue': sum(1 for task in self.tasks.values() if task.status == 'Overdue'),
